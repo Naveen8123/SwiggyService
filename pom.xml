@@ -66,6 +66,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>swiggy_service</finalName>
     </build>
     <repositories>
         <repository>
